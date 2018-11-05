@@ -1,8 +1,8 @@
 # Google Developers Kejar Mobile Web Specialist :
 
 ## Task
-1. [Firebase Hosting](#firebase-hosting)
-2. [Chrome Dev Tools : Calculator](developer-tools)
+1. Firebase Hosting
+2. Chrome Dev Tools : Calculator
 3. CSS GRID
 4. Maps 
 5. Fetch Json
@@ -31,6 +31,6 @@ Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)
 Cara install    :   ``` npm i http-server ```  
 Test            :   ``` npm --version ```  
 
-## Firebase Hosting
+## Hosting gratis dengan firebase
 
-## Developer Tools
+## Fitur Chrome Developer Tools
