@@ -1,6 +1,15 @@
-![Mobile Web Specialist](images/mws.jpeg)  
+# Google Developers Kejar Mobile Web Specialist :
 
-# Persiapan :
+## Task
+1. Firebase Hosting
+2. Calculator
+3. CSS GRID
+4. MAPS 
+5. FETCH JSON
+6. Offline App
+7. Add to Homescreen
+
+## Persiapan
 1. Google Chrome  
 Link download   : [Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)  
 
@@ -21,4 +30,3 @@ Test            : ``` firebase --version```
 Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)   
 Cara install    :   ``` npm i http-server ```  
 Test            :   ``` npm --version ```  
-
