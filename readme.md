@@ -1,3 +1,5 @@
+![Mobile Web Specialist](images/logo.jpeg)  
+
 # Persiapan :
 1. Google Chrome  
 Link download   : [Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)  
