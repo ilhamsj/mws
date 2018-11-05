@@ -8,7 +8,7 @@ Link download   : [Chrome](https://support.google.com/chrome/answer/95346?co=GEN
 Link download   : [Visual Studio Code](https://code.visualstudio.com/download)  
 
 3. Install node js  
-Versi           : 10.13.0 LTS Recommended For Most Users 
+Versi           : 10.13.0 LTS Recommended For Most Users  
 Link download   : [node js](https://nodejs.org/en/)  
 Test            : 
 
