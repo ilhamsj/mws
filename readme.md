@@ -2,10 +2,10 @@
 
 ## Task
 1. Firebase Hosting
-2. Calculator
+2. Chrome Dev Tools : Calculator
 3. CSS GRID
-4. MAPS 
-5. FETCH JSON
+4. Maps 
+5. Fetch Json
 6. Offline App
 7. Add to Homescreen
 
