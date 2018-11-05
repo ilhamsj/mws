@@ -1,4 +1,4 @@
-![Mobile Web Specialist](images/logo.jpeg)  
+![Mobile Web Specialist](images/mws.jpeg)  
 
 # Persiapan :
 1. Google Chrome  
