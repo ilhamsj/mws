@@ -10,7 +10,7 @@ Link download   : [Visual Studio Code](https://code.visualstudio.com/download)
 3. Install node js  
 Versi           : 10.13.0 LTS Recommended For Most Users  
 Link download   : [node js](https://nodejs.org/en/)  
-Test            : 
+Test            : ``` node --version ```
 
 4. Install Firebase CLI  
 Dokumentasi     : [Firebase](https://firebase.google.com/docs/cli/?hl=id)  
