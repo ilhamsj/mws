@@ -32,5 +32,17 @@ Cara install    :   ``` npm i http-server ```
 Test            :   ``` npm --version ```  
 
 ## Hosting gratis dengan firebase
+- 
+
 
 ## Fitur Chrome Developer Tools
+
+## CSS GRID
+
+public
+    |
+    + images untuk gambar dan icon
+    |
+    + project1 untuk proyek menambahkan dua angka
+    |
+    + project2 untuk proyek Mapbox
