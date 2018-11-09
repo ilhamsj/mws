@@ -39,10 +39,10 @@ Test            :   ``` npm --version ```
 
 ## CSS GRID
 
-public
-    |
-    + images untuk gambar dan icon
-    |
-    + project1 untuk proyek menambahkan dua angka
-    |
+public  
+    |  
+    + images untuk gambar dan icon  
+    |  
+    + project1 untuk proyek menambahkan dua angka  
+    |  
     + project2 untuk proyek Mapbox  
