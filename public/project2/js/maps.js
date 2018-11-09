@@ -47,7 +47,7 @@ par.appendChild(teks);
 teks.innerHTML = komentar;
 
 // menampilkan gambar
-let gambar = "images/Loop.jpg";
+let gambar = "../images/Loop.jpg";
 
 let gmb = document.getElementById("gambar");
 let foto = document.createElement("img");
