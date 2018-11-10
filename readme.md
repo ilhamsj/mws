@@ -35,7 +35,7 @@ Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)
 Cara install    :   ``` npm install http-server -g ```  
 Test            :   ``` npm --version ```  
 
-## Firebase Hosting
+## Firebase
 - Buat simple website di local
 - Buat firebase project
 - Install node js
