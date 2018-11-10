@@ -12,5 +12,3 @@ fetch(URL)
     .catch(err => console.log(err));
 
     //parameter response mempunyai nilai status (HTTP-Status) 
-
-    // cara gunain git dan push ke github
