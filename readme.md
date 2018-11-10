@@ -49,7 +49,11 @@ Cara install    :   ``` npm install http-server -g ```
 
 ```
 public
-    images untuk gambar dan icon  
-    project1 untuk proyek menambahkan dua angka  
-    project2 untuk proyek Mapbox 
+    images
+    project1
+        css
+        js
+        index.html
+    project2
+    project3
 ```
