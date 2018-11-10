@@ -1,19 +1,19 @@
 # Google Developers Kejar Mobile Web Specialist :
 
 ## Task
-### Deadline 11 November
+### :hourglass: 11 November
 0. [Persiapan](#persiapan)
 1. [Cara Hosting dengan Firebase](#firebase)
 2. [Chrome Developer Tools](#kalkulator)
 3. [CSS GRID](#css)
 4. [Manampilkan Peta](#maps) 
 
-### Deadline 30 November
+### :hourglass: 30 November
 5. Fetch Json
 6. Offline App
 7. Add to Homescreen
 
-## Persiapan
+## :grey_exclamation: :grey_exclamation: :grey_exclamation: Persiapan
 1. Google Chrome  
 Link download   : [Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)  
 
