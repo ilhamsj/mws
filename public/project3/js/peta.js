@@ -50,8 +50,6 @@ async function f(URL) {
 const URL = "data/peta.json";
 f(URL);
 
-
-
 // display marker
 let places = JSON.parse(localStorage.getItem("places"));
 for (var p of places) {
