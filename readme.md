@@ -44,7 +44,7 @@ Cara install    :   ``` npm install http-server -g ```
 - Firebase deploy
 
 ## Kalkulator
-
+[Example](public/project1)
 ## CSS
 
 ```
