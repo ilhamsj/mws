@@ -38,22 +38,17 @@ gmb.appendChild(img);
 rev.appendChild(par);
 
 // fetch json
+async function f(URL) {
+    try {
+        const resp = await(fetch(URL));
+        const resp2 = await resp.json();
+        localStorage.setItem("places", JSON.stringify(resp2.places))
+    } catch (error) {
+        console.log(err);
+    }
+}
 const URL = "data/peta.json";
-fetch(URL)
-    .then(function(response) {
-        if(response.status !== 200) {
-            console.log("Ada masalah " + response.status)
-            return;
-        }
-        return response.json();
-    })
-    .then(resp => {
-        let places = resp.places;
-        localStorage.setItem("places", JSON.stringify(resp.places));
-    })
-    .catch(function(err) {
-        console.log(err)
-    })
+f(URL);
 
 
 
