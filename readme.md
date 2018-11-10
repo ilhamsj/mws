@@ -4,10 +4,13 @@ Format: ![mws](url)
 # Google Developers Kejar Mobile Web Specialist :
 
 ## Task
-- [ ] Firebase Hosting
+### Deadline 11 November
+1. [Firebase Hosting](#Firebase)
 2. Chrome Dev Tools : Calculator
 3. CSS GRID
 4. Maps 
+
+### Deadline 30 November
 5. Fetch Json
 6. Offline App
 7. Add to Homescreen
@@ -34,7 +37,7 @@ Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)
 Cara install    :   ``` npm install http-server -g ```  
 Test            :   ``` npm --version ```  
 
-## Hosting gratis dengan firebase
+## Firebase
 - Buat simple website di local
 - Buat firebase project
 - Install node js
