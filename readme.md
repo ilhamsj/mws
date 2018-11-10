@@ -5,9 +5,9 @@ Format: ![mws](url)
 
 ## Task
 ### Deadline 11 November
-1. [Firebase Hosting](#Firebase)
-2. Chrome Dev Tools : Calculator
-3. CSS GRID
+1. [Cara Hosting dengan Firebase](#Firebase)
+2. [Chrome Developer Tools](#Kalkulator)
+3. [CSS GRID](#CSS)
 4. Maps 
 
 ### Deadline 30 November
@@ -37,7 +37,7 @@ Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)
 Cara install    :   ``` npm install http-server -g ```  
 Test            :   ``` npm --version ```  
 
-## Firebase
+## Firebase Hosting
 - Buat simple website di local
 - Buat firebase project
 - Install node js
@@ -47,7 +47,7 @@ Test            :   ``` npm --version ```
 - Firebase deploy
 
 
-## Fitur Chrome Developer Tools
+## Kalkulator
 
 ## CSS GRID
 
