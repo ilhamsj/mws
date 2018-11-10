@@ -45,8 +45,9 @@ Cara install    :   ``` npm install http-server -g ```
 
 ## Kalkulator
 [Example](public/project1)
-## CSS
 
+## CSS
+[Example](public/)
 ```
 public
     images
