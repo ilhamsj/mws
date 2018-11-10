@@ -1,14 +1,12 @@
-![GitHub Logo](public/images/mws.jpeg)
-Format: ![mws](url)
-
 # Google Developers Kejar Mobile Web Specialist :
 
 ## Task
 ### Deadline 11 November
-1. [Cara Hosting dengan Firebase](#Firebase)
-2. [Chrome Developer Tools](#Kalkulator)
-3. [CSS GRID](#CSSGRID)
-4. Maps 
+0. [Persiapan](#persiapan)
+1. [Cara Hosting dengan Firebase](#firebase)
+2. [Chrome Developer Tools](#kalkulator)
+3. [CSS GRID](#css)
+4. [Manampilkan Peta](#maps) 
 
 ### Deadline 30 November
 5. Fetch Json
@@ -49,7 +47,7 @@ Test            :   ``` npm --version ```
 
 ## Kalkulator
 
-## CSS GRID
+## CSS
 
 public  
     |  
