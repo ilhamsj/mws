@@ -1,0 +1,34 @@
+{
+    "places" : [
+        {
+            "lokasi": [-7.801947, 110.365234],
+            "sponsor" : "Loop station yogyakarta",
+            "gambar" : "images/image (5).png",
+            "review" : "Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        },
+        {
+            "lokasi": [-7.801299, 110.364789],
+            "sponsor" : "0 Kilometer",
+            "gambar" : "images/image (1).png",
+            "review" : "Iste eos veritatis dolor et doloribus necessitatibus"
+        },
+        {
+            "lokasi" : [-7.803860, 110.364558],
+            "sponsor" : "Alun alun yogyakarta",
+            "gambar" : "images/image (2).png",
+            "review" : "maxime cum tempore consequuntur"
+        },
+        {
+            "lokasi" : [-7.802202, 110.363915],
+            "sponsor" : "Museum sonobudoyo",
+            "gambar" : "images/image (3).png",
+            "review" : "voluptate a assumenda! Ullam"
+        },
+        {
+            "lokasi" : [-7.800045, 110.366286],
+            "sponsor" : "Museum Benteng Vredeburg",
+            "gambar" : "images/image (4).png",
+            "review" : "natus corporis distinctio est omnis quia sunt?"
+        }
+    ]
+}
