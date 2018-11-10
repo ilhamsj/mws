@@ -15,7 +15,7 @@ body {
 .container {
     display: grid;
     height: 100%;
-    grid-gap: 4px;
+    /* grid-gap: 4px; */
     grid-template-columns: repeat(8,1fr);
     grid-template-rows: 60% 40%;
 }
@@ -27,11 +27,13 @@ body {
 #gambar {
     background: green;
     grid-column: 1/6;
+    border-top-left-radius: 20px;
 }
 
 #review {
     background: yellow;
     grid-column:6/-1;
+    border-top-right-radius: 20px;
 }
 
 img {

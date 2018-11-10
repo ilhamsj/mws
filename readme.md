@@ -32,7 +32,13 @@ Cara install    :   ``` npm i http-server ```
 Test            :   ``` npm --version ```  
 
 ## Hosting gratis dengan firebase
-- 
+- Buat simple website di local
+- Buat firebase project
+- Install node js
+- Install firebase cli
+- Firebase login
+- Firebase init
+- Firebase deploy
 
 
 ## Fitur Chrome Developer Tools
