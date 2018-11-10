@@ -1,7 +1,10 @@
+![GitHub Logo](public/images/mws.jpeg)
+Format: ![mws](url)
+
 # Google Developers Kejar Mobile Web Specialist :
 
 ## Task
-1. Firebase Hosting
+- [ ] Firebase Hosting
 2. Chrome Dev Tools : Calculator
 3. CSS GRID
 4. Maps 
@@ -28,7 +31,7 @@ Test            : ``` firebase --version```
 
 5. Install http-server  
 Dokumentasi     : [http-server](https://www.npmjs.com/package/http-server)   
-Cara install    :   ``` npm i http-server ```  
+Cara install    :   ``` npm install http-server -g ```  
 Test            :   ``` npm --version ```  
 
 ## Hosting gratis dengan firebase
