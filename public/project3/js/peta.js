@@ -22,7 +22,7 @@ function findLocation(x, y) {
 // fungsi menampilkan lokasi
 function showLocation(e) {
     let ix = findLocation(e.latlng.lat, e.latlng.lng);
-    if(ix > 0) {
+    if(ix >= 0) {
         img.src = places[ix].gambar
         par.textContent = places[ix].review
     }
