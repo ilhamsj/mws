@@ -39,9 +39,9 @@ Cara install    :   ``` npm install http-server -g ```
 - Buat firebase project
 - Install node js
 - Install firebase cli
-- Firebase login
-- Firebase init
-- Firebase deploy
+- ```firebase login```
+- ```firebase init```
+- ```firebase deploy```
 
 ## Kalkulator
 [Example](public/project1)
