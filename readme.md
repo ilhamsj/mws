@@ -60,7 +60,3 @@ public
 ```
 
 
-#speed
-#innovation
-#social-impact
-
