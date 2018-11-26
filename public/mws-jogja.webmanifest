@@ -1,0 +1,21 @@
+{
+    "name" : "Mobile Web Specialist",
+    "short_name" : "MWSJogja",
+    "description" : "Progressive Web App that lists games submitted to the A-Frame category in the js13kGames 2017 competition.",
+    "start_url" : "/?utm_source=homescreen",
+    "display" : "standalone",
+    "theme_color" : "#5bcae9",
+    "background_color" : "#F0F0F0",
+    "lang": "en-US",
+    "orientation" : "any",
+    "icons" : [
+        {
+            "src": "/images/icon.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/images/icon.png",
+            "sizes": "72x72"
+        }
+    ]
+}
