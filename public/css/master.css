@@ -12,8 +12,8 @@
 }
 
 .menu {
-  background: lightblue;
   grid-column: 1/5;
+  text-align: center;
 }
 
 .sidebar {
@@ -35,4 +35,14 @@
 
 img {
   max-width: 100%;
+}
+
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+
+.menu img {
+  width: 150px;
 }
